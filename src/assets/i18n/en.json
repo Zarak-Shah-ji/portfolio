@@ -4,16 +4,17 @@
     "Header.Item3": "Projects",
     "Header.Item4": "Contact",
     "Header.cvBtn": "Resume",
-    "Header.cvName": "Mohammad_Zarak.Shah_ji.Resume.pdf",
+    "Header.cvName": "Mohammad-Zarak.Shah-ji-Resume.pdf",
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": " Passionate about leveraging technology to drive <span class='underline'>innovation</span>, I am a versatile and dynamic professional with a strong software development and data analysis background. I have expertise in programming languages, web development, cloud computing, and machine learning.Let's connect and explore how we can make a <span class='underline'>meaningful impact together.</span>",
+    "Banner.Description": " Passionate about leveraging technology to drive <span class='underline'>innovation</span>, I am a versatile and dynamic professional with a strong software development and data analysis background. I have expertise in programming languages, web development, cloud computing, and machine learning. Let's connect and explore how we can make a <span class='underline'>meaningful impact together.</span>",
     "Banner.ActionBtn": "Get in touch",
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
-        "In my <span class='underline'>4 years of experience</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>ExpressJS, NodetJs, MongoDB and MySQL</span>.I thrive in creating innovative solutions for Fortune 500 companies.",
-        "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
-        "I have collaborated closely with diverse teams throughout my career, fostering relationships that drive success.",
-        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+        " <span class='underline'>Software Engineer | Growth-Oriented | Collaborative Leader </span> ",
+        "I am a dynamic Software Engineer fueled by a passion for staying at the forefront of technological advancements. With a focus on innovation and continuous growth, I consistently strive to push the boundaries of what's possible.",
+         "From implementing groundbreaking system enhancements to optimizing performance, I deliver exceptional results that make a tangible impact. My collaborative nature and leadership skills enable me to foster innovation and drive success within diverse teams.",
+        "With a proven track record of mentoring and inspiring others, I <span class='underline'>embrace challenges head-on </span>, bringing fresh perspectives and innovative solutions to every project. As a growth-oriented professional, I am eager to make a significant impact as part of a forward-thinking team.",
+        "Cutting-Edge Technologies Mastered and Applied:"
     ],
     "Experience.Title": "Experience",
     "Experience.Jobs": [
@@ -69,20 +70,20 @@
             ]
         }
     ],
-    "FeatureProjects.Title": "Projects that I was a part of",
+    "FeatureProjects.Title": "Highlighted Projects",
     "FeatureProjects.Label": "Featured Project",
     "FeatureProjects.Projects": [
         {
             "Title": "TOM",
             "Description": "A Next Generation Car Test Order Management System application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
             "imgs": [
-                "assets/images/school/image1.png",
-                "assets/images/school/image2.png"
+                "assets/images/school/Tom1.png",
+                "assets/images/school/Tom2.png",
+                "assets/images/school/Tom3.png"
             ],
             "Technologies": [
                 "Angular",
                 "SASS",
-                "Angular Material",
                 "RxJS",
                 "NodeJS",
                 "ExpressJS",
@@ -104,7 +105,6 @@
                 "YOLO v5",
                 "PyTorch",
                 "NumPy",
-                "LSTM",
                 "OpenCV"
             ]
         },
@@ -175,8 +175,7 @@
                 "Python",
                 "SASS",
                 "Django",
-                "API",
-                "3rd Party Library"
+                "API"
             ]
         },
         {
@@ -190,10 +189,34 @@
                 "Ternary Search Tree"
                 
             ]
+        },
+        {
+            "Title": "DeathStar",
+            "Description": "Cybersecurity project using Convolutional Neural Networks on application built on microservices",
+            "ghLink": "https://github.com/Zarak-Shah-ji/DeathStar",
+            "demoLink": "https://github.com/Zarak-Shah-ji/DeathStar",
+            "Technologies": [
+                "Docker",
+                "Kubernetes",
+                "YAML",
+                "CNN"
+                
+            ]
+        },
+        {
+            "Title": "Organize",
+            "Description": "Explaining file structure of node.js and Express application",
+            "ghLink": "https://medium.com/@zarak.shah.ji/deciding-a-file-structure-of-any-application-is-always-a-pain-for-new-developers-b0400a20e86",
+            "demoLink": "https://medium.com/@zarak.shah.ji/deciding-a-file-structure-of-any-application-is-always-a-pain-for-new-developers-b0400a20e86",
+            "Technologies": [
+                "NodeJS",
+                "ExpressJS"
+                
+            ]
         }
     ],
     "Contact.Pretitle": "What’s Next",
     "Contact.Title": "Get in touch!",
-    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Content": "I would be delighted to hear from you if you're interested in discussing new opportunities.",
     "Contact.Btn": "Say Hello"
 }
