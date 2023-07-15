@@ -4,9 +4,9 @@
     "Header.Item3": "Projects",
     "Header.Item4": "Contact",
     "Header.cvBtn": "Resume",
-    "Header.cvName": "Mohammad-Zarak.Shah-ji-Resume.pdf",
+    "Header.cvName": "Mohammad_Zarak_Shah-ji_Resume.pdf",
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": " Passionate about leveraging technology to drive <span class='underline'>innovation</span>, I am a versatile and dynamic professional with a strong software development and data analysis background. I have expertise in programming languages, web development, cloud computing, and machine learning. Let's connect and explore how we can make a <span class='underline'>meaningful impact together.</span>",
+    "Banner.Description": " Passionate about leveraging technology to drive <span class='underline'>innovation</span>, I am a versatile and dynamic professional with a strong software development and data analysis background. I have expertise in various programming languages, web development, cloud computing, and machine learning. Let's connect and explore how we can make a <span class='underline'>meaningful impact together.</span>",
     "Banner.ActionBtn": "Get in touch",
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
@@ -25,7 +25,7 @@
             "Description": [
                 "Working on a car scheduling app to automate emissions testing process pipeline, achieving 95% validity in car tests",
                 "Drove remarkable enhancement of the application by implementing four cutting-edge features: car test scheduling,test sequence editing, signup page creation, and calendar integration, boosting overall functionality by 75%",
-                "Implemented admin access for 90% of the functionalities using authentication guards, resulting in a 100% improvement in application security and a significant reduction in car information mishandling incidents"
+                "Implemented admin access for 90% of the functionalities using OAuth 2.0 with JSON web tokens (JWT), resulting in a 100% improvement in application security and a significant reduction in car information mishandling incidents"
             ]
         },
         
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "Tab": "BMCP Solutions",
+            "Tab": "BMCP",
             "Title": "Independent",
             "Date": "Nov 2019 - Feb 2020",
             "Description": [
@@ -75,7 +75,7 @@
     "FeatureProjects.Projects": [
         {
             "Title": "TOM",
-            "Description": "A Next Generation Car Test Order Management System application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
+            "Description": "A Next Generation <span class='underline'> Car Test Order Management System </span>  build from scratch with configurable graphics, alarms, user management, and authentication. Implemented cutting-edge features, such as <span class='underline'> test scheduling, sequence editing, and calendar integration </span>, while ensuring application security with <span class='underline'> OAuth 2.0 with JSON web tokens.</span>",
             "imgs": [
                 "assets/images/school/Tom1.png",
                 "assets/images/school/Tom2.png",
@@ -92,7 +92,7 @@
             ]
         },
         {
-            "Title": "Driver Drowsiness Detection",
+            "Title": "DDD - Driver Drowsiness Detection",
             "Description": "Revolutionized driver safety technology by analyzing drowsiness detection techniques, specifically focusing on <span class='underline'>facial features </span>. Identified the most effective method with <span class='underline'>95% accuracy</span>",
             "imgs": [
                 "assets/images/bbm/val_batch0_labels.jpg",
@@ -110,7 +110,7 @@
         },
         {
             "Title": "Crazy Crypto",
-            "Description": "Built a real-time updating app for prices, news, and graphs of cryptocurrencies, yielding an informative platform. Install this <span class='underline'> extension </span> to see data in app.",
+            "Description": "Built a real-time updating app for prices, news, and graphs of cryptocurrencies, yielding an informative platform. Install this <span class='underline'> <a href='https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf'> extension</a> </span> to see data in app.",
             "imgs": [
                 "assets/images/mazhr/Crazy1.png",
                 "assets/images/mazhr/Crazy2.png"
@@ -180,7 +180,7 @@
         },
         {
             "Title": "Word Checker",
-            "Description": "Searches if a word exists in a specific file or not",
+            "Description": "Discover the power of effortless word exploration! This innovative program swiftly scans and retrieves your desired word from an array of files, putting the information you need right at your fingertips.",
             "ghLink": "https://github.com/Zarak-Shah-ji/Word-Checker",
             "demoLink": "https://github.com/Zarak-Shah-ji/Word-Checker",
             "Technologies": [
@@ -192,7 +192,7 @@
         },
         {
             "Title": "DeathStar",
-            "Description": "Cybersecurity project using Convolutional Neural Networks on application built on microservices",
+            "Description": "Embark on a groundbreaking journey through the world of cybersecurity with our visionary project! Harnessing the unparalleled prowess of Convolutional Neural Networks, our application, architectured on agile microservices, stands as an awe-inspiring testament to fortifying digital realms against even the most formidable threats.",
             "ghLink": "https://github.com/Zarak-Shah-ji/DeathStar",
             "demoLink": "https://github.com/Zarak-Shah-ji/DeathStar",
             "Technologies": [
