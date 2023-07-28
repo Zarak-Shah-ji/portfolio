@@ -1,0 +1,222 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "Mohammad_Zarak_Shah-ji_Resume.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": " Passionate about leveraging technology to drive <span class='underline'>innovation</span>, I am a versatile and dynamic professional with a strong software development and data analysis background. I have expertise in various programming languages, web development, cloud computing, and machine learning. Let's connect and explore how we can make a <span class='underline'>meaningful impact together.</span>",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        " <span class='underline'>Software Engineer | Growth-Oriented | Collaborative Leader </span> ",
+        "I am a dynamic Software Engineer fueled by a passion for staying at the forefront of technological advancements. With a focus on innovation and continuous growth, I consistently strive to push the boundaries of what's possible.",
+         "From implementing groundbreaking system enhancements to optimizing performance, I deliver exceptional results that make a tangible impact. My collaborative nature and leadership skills enable me to foster innovation and drive success within diverse teams.",
+        "With a proven track record of mentoring and inspiring others, I <span class='underline'>embrace challenges head-on </span>, bringing fresh perspectives and innovative solutions to every project. As a growth-oriented professional, I am eager to make a significant impact as part of a forward-thinking team.",
+        "Cutting-Edge Technologies Mastered and Applied:"
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "BMW",
+            "Title": "Software Engineer",
+            "Date": "Sept 2022 - Present",
+            "Description": [
+                "Working on a car scheduling app to automate emissions testing process pipeline, achieving 95% validity in car tests",
+                "Drove remarkable enhancement of the application by implementing four cutting-edge features: car test scheduling,test sequence editing, signup page creation, and calendar integration, boosting overall functionality by 75%",
+                "Implemented admin access for 90% of the functionalities using OAuth 2.0 with JSON web tokens (JWT), resulting in a 100% improvement in application security and a significant reduction in car information mishandling incidents"
+            ]
+        },
+        
+        {
+            "Tab": "CSUN",
+            "Title": "Desktop Support Specialist",
+            "Date": "April 2022 - Aug 2022",
+            "Description": [
+                "Spearheaded technical support to users in-person, over phone, and remotely resulting in 97% customer satisfaction",
+                "Resolved hardware/software issues for over 500 users, with a ticket closure rate of 95% within service agreement"
+                
+               
+            ]
+        },
+        {
+            "Tab": "Sandia Labs",
+            "Title": "Research Assistant",
+            "Date": "Sept 2021 - Mar 2022",
+            "Description": [
+                "Conducted penetration testing on microservices applications, leveraging deep learning techniques to analyze patterns and predict potential attacks, resulting in a system with a reduced risk of successful cyber-attacks by 98%",
+                "Deployed the DeathstarBench social network app on Kubernetes, achieving 100% functionality of the application",
+                "Employed Repulsive Grizzly app to conduct DDOS attacks, resulting in identifying 10+ vulnerabilities in microservices"
+            ]
+        },
+        {
+            "Tab": "UoK",
+            "Title": "Full Stack Developer",
+            "Date": "Mar 2020 - Aug 2021",
+            "Description": [
+                "Developed and managed an e-commerce web application utilizing Python's Django framework, guaranteeing both functionality and scalability, resulting in a 55% boost in website traffic and a 30% surge in sales revenue",
+                "Delivered customer-centric enhancements by implementing key features like add to cart and wish list, driving an outstanding 95% increase in customer satisfaction",
+                "Wrote REST APIs to perform CRUD operations, resulting in an API response time of less than 100ms and handling over 10,000 requests per minute"
+            ]
+        },
+        {
+            "Tab": "BMCP",
+            "Title": "Front End Developer",
+            "Date": "Nov 2019 - Feb 2020",
+            "Description": [
+                "Developed a new business website, leading to a 50% increase in traffic, a 70% boost in user engagement",
+                "Organized the CRM software by understanding KPIs, leading to a 99% improvement in customer satisfaction ratings"
+            ]
+        }
+    ],
+    "FeatureProjects.Title": "Highlighted Projects",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "TOM",
+            "Description": "A Next Generation <span class='underline'> Car Test Order Management System </span>  build from scratch with configurable graphics, alarms, user management, and authentication. Implemented cutting-edge features, such as <span class='underline'> test scheduling, sequence editing, and calendar integration </span>, while ensuring application security with <span class='underline'> OAuth 2.0 with JSON web tokens.</span>",
+            "imgs": [
+                "assets/images/school/Tom1.png",
+                "assets/images/school/Tom2.png",
+                "assets/images/school/Tom3.png"
+            ],
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "RxJS",
+                "NodeJS",
+                "ExpressJS",
+                "MySQL"
+
+            ]
+        },
+        {
+            "Title": "DDD - Driver Drowsiness Detection",
+            "Description": "Revolutionized driver safety technology by analyzing drowsiness detection techniques, specifically focusing on <span class='underline'>facial features </span>. Identified the most effective method with <span class='underline'>95% accuracy</span>",
+            "imgs": [
+                "assets/images/bbm/val_batch0_labels.jpg",
+                "assets/images/bbm/train_batch1.jpg"
+            ],
+            "demoLink": "https://github.com/Zarak-Shah-ji/Driver-Drowsiness-Detection",
+            "Technologies": [
+                "Scikit Learn",
+                "Matplotlib",
+                "YOLO v5",
+                "PyTorch",
+                "NumPy",
+                "OpenCV"
+            ]
+        },
+        {
+            "Title": "Crazy Crypto",
+            "Description": "Built a real-time updating app for prices, news, and graphs of cryptocurrencies, yielding an informative platform. Install this <span class='underline'> <a href='https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf'> extension</a> </span> to see data in app.",
+            "imgs": [
+                "assets/images/mazhr/Crazy1.png",
+                "assets/images/mazhr/Crazy2.png"
+            ],
+            "demoLink": "https://ramanand28.github.io/crazyCrypto/",
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "Material",
+                "Babel",
+                "NodeJS"
+            ]
+        },
+        {
+            "Title": "Type-2-Heart Research Paper",
+            "Description": "Uncovered novel insights into heart failure risk among diabetic patients using the Random Survival Forest machine learning model, unveiling previously undiscovered correlations with 90% accuracy.",
+            "imgs": [
+                "assets/images/mazhr/heart.jpg"
+            ],
+            "demoLink": "https://scholarworks.calstate.edu/concern/theses/9593v2206",
+            "Technologies": [
+                "Survival Analysis",
+                "Scikit Learn",
+                "Pandas",
+                "TensorFlow",
+                "Python"
+            ]
+        }
+    ],
+    "OtherProjects.Title": "More personal projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "Recommendation System",
+            "Description": "Content-based recommendation system using machine learning for personalized content suggestions",
+            "ghLink": "https://github.com/Zarak-Shah-ji/ML/blob/master/Content%20based%20Recommendation%20System",
+            "demoLink": "https://github.com/Zarak-Shah-ji/ML/blob/master/Content%20based%20Recommendation%20System",
+            "Technologies": [
+                "Pandas",
+                "NumPy",
+                "Jupyter",
+                "Python"
+            ]
+        },
+        {
+            "Title": "Mac OS Calculator",
+            "Description": "A user-friendly mobile/PC interactive iOS calculator",
+            "ghLink": "https://comp584-ios-calculator.glitch.me/",
+            "demoLink":  "https://comp584-ios-calculator.glitch.me/",
+            "Technologies": [
+                "React",
+                "SASS",
+                "Socket.io"
+                
+            ]
+        },
+        {
+            "Title": "Yander E-commerce",
+            "Description": "An elegant E-commerce solution for heritage products.",
+            "ghLink": "https://github.com/Zarak-Shah-ji/yander-ecom-3",
+            "demoLink": "https://github.com/Zarak-Shah-ji/yander-ecom-3",
+            "Technologies": [
+                "Python",
+                "SASS",
+                "Django",
+                "API"
+            ]
+        },
+        {
+            "Title": "Word Checker",
+            "Description": "Discover the power of effortless word exploration! This innovative program swiftly scans and retrieves your desired word from an array of files, putting the information you need right at your fingertips.",
+            "ghLink": "https://github.com/Zarak-Shah-ji/Word-Checker",
+            "demoLink": "https://github.com/Zarak-Shah-ji/Word-Checker",
+            "Technologies": [
+                "Trie",
+                "C++",
+                "Ternary Search Tree"
+                
+            ]
+        },
+        {
+            "Title": "DeathStar",
+            "Description": "Embark on a groundbreaking journey through the world of cybersecurity with our visionary project! Harnessing the unparalleled prowess of Convolutional Neural Networks, our application, architectured on agile microservices, stands as an awe-inspiring testament to fortifying digital realms against even the most formidable threats.",
+            "ghLink": "https://github.com/Zarak-Shah-ji/DeathStar",
+            "demoLink": "https://github.com/Zarak-Shah-ji/DeathStar",
+            "Technologies": [
+                "Docker",
+                "Kubernetes",
+                "YAML",
+                "CNN"
+                
+            ]
+        },
+        {
+            "Title": "Organize",
+            "Description": "Explaining file structure of node.js and Express application",
+            "ghLink": "https://medium.com/@zarak.shah.ji/deciding-a-file-structure-of-any-application-is-always-a-pain-for-new-developers-b0400a20e86",
+            "demoLink": "https://medium.com/@zarak.shah.ji/deciding-a-file-structure-of-any-application-is-always-a-pain-for-new-developers-b0400a20e86",
+            "Technologies": [
+                "NodeJS",
+                "ExpressJS"
+                
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I would be delighted to hear from you if you're interested in discussing new opportunities.",
+    "Contact.Btn": "Say Hello"
+}
