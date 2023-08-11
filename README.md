@@ -1,16 +1,46 @@
+# Portfolio Web App
 
+This is my portfolio web app built using Angular and Sass.
 
-## Development server
+## Getting Started
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+To get started with this project, you can clone this repository using the following command:
+
+```
+git clone https://github.com/Zarak-Shah-ji/angular.git
+```
+
+After cloning the repository, you can install the dependencies using the following command:
+
+```
+npm install
+```
+
+Once the dependencies are installed, you can start the development server using the following command:
+
+```
+ng serve
+```
+
+## Building for Production
+
+To build the project for production, you can use the following command:
+
+```
+ng build --prod
+```
+
+This will create a `dist` folder in your project directory that contains the compiled files.
+
+## Contributing
+
+If you find any issues with this project or want to contribute to it, feel free to create a pull request or open an issue.
+
 
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
 ## Running unit tests
 
@@ -20,6 +50,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+## License
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
