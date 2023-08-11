@@ -4,7 +4,7 @@ This is my portfolio web app built using Angular and Sass.
 
 ## Live Demo
 
-[Live Demo](https://zarak-shah-ji.github.io/angular/)
+[Portfolio-app Demo](https://zarak-shah-ji.github.io/angular/)
 
 
 
