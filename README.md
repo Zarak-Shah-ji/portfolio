@@ -2,6 +2,13 @@
 
 This is my portfolio web app built using Angular and Sass.
 
+## Live Demo
+
+[Live Demo](https://zarak-shah-ji.github.io/angular/)
+
+
+
+
 ## Getting Started
 
 To get started with this project, you can clone this repository using the following command:
@@ -53,4 +60,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+
+
+
+
+
+
 
