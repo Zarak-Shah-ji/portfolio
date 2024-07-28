@@ -11,62 +11,64 @@
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
         " <span class='underline'>Software Engineer | Growth-Oriented | Collaborative Leader </span> ",
-        "I am a dynamic Software Engineer fueled by a passion for staying at the forefront of technological advancements. With a focus on innovation and continuous growth, I consistently strive to push the boundaries of what's possible.",
+        "I am a Problem Solver fueled by a passion for staying at the forefront of technological advancements. With a focus on innovation and continuous growth, I consistently strive to push the boundaries of what's possible.",
          "From implementing groundbreaking system enhancements to optimizing performance, I deliver exceptional results that make a tangible impact. My collaborative nature and leadership skills enable me to foster innovation and drive success within diverse teams.",
         "With a proven track record of mentoring and inspiring others, I <span class='underline'>embrace challenges head-on </span>, bringing fresh perspectives and innovative solutions to every project. As a growth-oriented professional, I am eager to make a significant impact as part of a forward-thinking team.",
         "Cutting-Edge Technologies Mastered and Applied:"
     ],
     "Experience.Title": "Experience",
     "Experience.Jobs": [
+           {
+            "Tab": "BMW FS",
+            "Title": "Data Analyst",
+            "Date": "September 2023 - Present",
+            "Description": [
+                "Boosted retail revenue by 20% through developing a collaborative filtering recommendation model using Python, leveraging item-item similarities and customer session data",
+                "Enhanced financial tracking with Tableau dashboards and TabPy integration, automating Excel reports and achieving a 40% reduction in processing time and around 15% increase in budgeting efficiency",
+                "Automated the cash reporting process for CEO decision-making, migrating large portions from Excel to SQL and reducing the overall financial month-end close turnaround time from 3+ days to 1 day",
+                "Streamlined reporting and data analysis processes by leading a transition to Amazon Athena and PostgreSQL cloud-based system, reducing generation time by 30% and enhancing data reliability for faster decision-making"
+            ]
+        },
         {
             "Tab": "BMW",
             "Title": "Software Engineer",
-            "Date": "Sept 2022 - September 2023",
+            "Date": "September 2022 - September 2023",
             "Description": [
-                "Working on a car scheduling app to automate emissions testing process pipeline, achieving 95% validity in car tests",
-                "Drove remarkable enhancement of the application by implementing four cutting-edge features: car test scheduling,test sequence editing, signup page creation, and calendar integration, boosting overall functionality by 75%",
-                "Implemented admin access for 90% of the functionalities using OAuth 2.0 with JSON web tokens (JWT), resulting in a 100% improvement in application security and a significant reduction in car information mishandling incidents"
+                "Designed and implemented a new vehicle test order management application using TypeScript, Angular, Express.js, and Node.js, achieving a 97% validity rate in automating the emissions testing process pipeline",
+                "Automated vehicle data import using Ajax and JSON, decreasing data entry time by 40% with 100% accuracy",
+                "Implemented Role-Based Access Control, reducing unauthorized access by 30% and saving 2 hrs/week for the engineering team",
+                "Integrated new features, including intuitive test sequence editing with PrimeNG and calendar integration with the angular calendar open-source repository, elevating the application's capabilities and enhancing user experience"
             ]
         },
         
         {
-            "Tab": "CSUN",
-            "Title": "Desktop Support Specialist",
-            "Date": "April 2022 - Aug 2022",
-            "Description": [
-                "Spearheaded technical support to users in-person, over phone, and remotely resulting in 97% customer satisfaction",
-                "Resolved hardware/software issues for over 500 users, with a ticket closure rate of 95% within service agreement"
-                
-               
-            ]
-        },
-        {
             "Tab": "Sandia Labs",
-            "Title": "Research Assistant",
-            "Date": "Sept 2021 - Mar 2022",
+            "Title": "AI Research Assistant",
+            "Date": "September 2021 - August 2022",
             "Description": [
-                "Conducted penetration testing on microservices applications, leveraging deep learning techniques to analyze patterns and predict potential attacks, resulting in a system with a reduced risk of successful cyber-attacks by 98%",
-                "Deployed the DeathstarBench social network app on Kubernetes, achieving 100% functionality of the application",
-                "Employed Repulsive Grizzly app to conduct DDOS attacks, resulting in identifying 10+ vulnerabilities in microservices"
+                "Conducted penetration testing on microservices applications using Python and Recurrent Neural Networks, identifying attack patterns, forecasting threats and reducing cyber-attack risk by 80%",
+                "Created datasets from attack telemetry and trained an RNN model via Python, yielding a 30% accuracy surge in threat detection",
+                "Remodeled a load testing tool using Python to conduct DDoS attacks, identifying 7+ vulnerabilities in microservices",
+                "Deployed a open-source microservices application on Kubernetes using YAML, achieving 100% functionality"
             ]
         },
         {
             "Tab": "UoK",
             "Title": "Full Stack Developer",
-            "Date": "Mar 2020 - Aug 2021",
+            "Date": "March 2020 - August 2021",
             "Description": [
-                "Developed and managed an e-commerce web application utilizing Python's Django framework, guaranteeing both functionality and scalability, resulting in a 55% boost in website traffic and a 30% surge in sales revenue",
-                "Delivered customer-centric enhancements by implementing key features like add to cart and wish list, driving an outstanding 95% increase in customer satisfaction",
-                "Wrote REST APIs to perform CRUD operations, resulting in an API response time of less than 100ms and handling over 10,000 requests per minute"
+                "Developed and managed a Django-based e-commerce web app with Django-allauth, SCSS, jQuery, and PostgreSQL, boosting website traffic by 45% and sales revenue by 10%",
+                "Leveraged Python multithreading /async, boosting throughput by 30% and slashing processing times via resource utilization",
+                "Refactored legacy systems using design patterns and Git, boosting maintainability by 25% and reducing tech debt"
             ]
         },
         {
             "Tab": "BMCP",
             "Title": "Front End Developer",
-            "Date": "Nov 2019 - Feb 2020",
+            "Date": "November 2019 - February 2020",
             "Description": [
-                "Developed a new business website, leading to a 50% increase in traffic, a 70% boost in user engagement",
-                "Organized the CRM software by understanding KPIs, leading to a 99% improvement in customer satisfaction ratings"
+                "Conducted A/B testing and click path optimization with layout variations and CTAs, increasing conversion rates by 10%",
+                "Developed a responsive company website with HTML, CSS, Bootstrap, and JavaScript, boosting user engagement by 15%"
             ]
         }
     ],
