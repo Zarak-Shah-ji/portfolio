@@ -47,8 +47,8 @@
                         "buildOptimizer": false,
                         "sourceMap": true,
                         "optimization": false,
-                        "namedChunks": true, 
-                        "baseHref": "/portfolio/"
+                        "namedChunks": true
+                    
                     },
                     "configurations": {
                         "production": {
