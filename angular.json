@@ -19,6 +19,7 @@
                 "build": {
                     "builder": "@angular-devkit/build-angular:browser",
                     "options": {
+                        "baseHref": "/portfolio/",
                         "outputPath": "dist/zarak-portfolio",
                         "index": "src/index.html",
                         "main": "src/main.ts",
@@ -78,8 +79,8 @@
                                 }
                             ],
                             "serviceWorker": true,
-                            "ngswConfigPath": "ngsw-config.json",
-                            "baseHref": "/portfolio/"
+                            "ngswConfigPath": "ngsw-config.json"
+                            
                         }
                     },
                     "defaultConfiguration": ""
