@@ -20,8 +20,8 @@
     "Experience.Jobs": [
         {
             "Tab": "BMW FS",
-            "Title": " Senior Data Analyst ",
-            "Date": "Sept 2024 - Present",
+            "Title": " Senior Data Scientist ",
+            "Date": "Sept 2023 - Present",
             "Description": [
                 "Spearheaded the migration of over 750 financial reports from Crystal to Tableau, resulting in a quarterly savings of $300,000",
                 "Optimized the monthly financial reconciliation process by implementing advanced SQL queries and automated data validation checks, reducing discrepancies by 25% and saving over 50 hours of manual review per month.",
@@ -30,16 +30,6 @@
             ]
         },
         
-        {
-            "Tab": " BMW FS",
-            "Title": "Data Analyst",
-            "Date": "Sept 2023 - Aug 24",
-            "Description": [
-                "Built a recommendation model using clickstream data, improving targeted promotions 20% reflected in higher conversion rates",
-                "Created Tableau dashboards for pre-owned vehicles retail team, reducing reporting time by 40% through automation of data collection and visualization, as measured by comparing pre and post implementation reporting times",
-                "Automated the cash reporting process for VP decision making, migrating large portions from Excel to SQL and reducing the overall financial month-end close turnaround time from 3+ days to 1 day"
-            ]
-        },
 
         {
             "Tab": " BMW NA",
