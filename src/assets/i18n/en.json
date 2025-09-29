@@ -11,7 +11,7 @@
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
         " <span class='underline'>  Growth-Oriented | Collaborative Leader </span> ",
-        "I am a Senior Data Analyst with a strong interest in reinforcement learning and recommendation systems. I stay updated with the latest advancements in these areas and consistently strive to apply innovative techniques to my work.",
+        "I am a Senior Data Scientist with a strong interest in reinforcement learning and recommendation systems. I stay updated with the latest advancements in these areas and consistently strive to apply innovative techniques to my work.",
         "From enhancing data systems to optimizing performance, I deliver data-driven insights that make a significant impact. My collaborative nature and leadership skills enable me to drive success within diverse teams.",
         "With a proven track record of mentoring and inspiring others, I tackle challenges head-on, bringing fresh perspectives and innovative solutions to every project. I am eager to contribute to a forward-thinking team.",
         "Tech Stack:"
@@ -21,15 +21,24 @@
         {
             "Tab": "BMW FS",
             "Title": " Senior Data Scientist ",
-            "Date": "Sept 2023 - Present",
+            "Date": "Sept 2024 - Present",
             "Description": [
-                "Spearheaded the migration of over 750 financial reports from Crystal to Tableau, resulting in a quarterly savings of $300,000",
-                "Optimized the monthly financial reconciliation process by implementing advanced SQL queries and automated data validation checks, reducing discrepancies by 25% and saving over 50 hours of manual review per month.",
-                "Led a cross-functional team to integrate new financial software, enhancing data accuracy and reporting capabilities, which resulted in a 15% increase in the speed of financial closing processes and improved decision-making for senior management",
-                "Developed Python scripts to automate the generation of tax letters, leading to a significant reduction in manual effort and improved efficiency by dynamically fetching vehicle data, populating templates, and incorporating user inputs"
+            "Designed and deployed low-latency backend services on AWS (Lambda, API Gateway, SageMaker), achieving p95 less than 100ms and cutting manual validation effort by 15%",
+            "Built and supported a retrieval-augmented API service for financial insights; authored ADRs, disaster recovery plans, and integrated Splunk + CloudWatch monitoring",
+            "Instituted secure coding practices and automated testing (pytest, Jest) in CI/CD pipelines (Jenkins, GitHub Actions)",
+            "Delivered a recommendation service via REST APIs, improving promotional targeting by 20% with sub-second inference"   
             ]
         },
-        
+        {
+            "Tab": "BMW FS",
+            "Title": " Data Analyst ",
+            "Date": "Sept 2023 - Present",
+            "Description": [
+
+                "Developed and deployed a collaborative filtering engine using Python + SQL, improving targeted promotions by 20% and directly impacting customer conversion rates",
+                "Built Tableau dashboards and automated reporting pipelines, reducing manual reporting time by 40%"
+            ]
+        },
 
         {
             "Tab": " BMW NA",
